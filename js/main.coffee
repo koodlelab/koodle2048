@@ -1,1 +1,2 @@
-alert "Hello koodle 2048"
+$ ->
+  alert "Hello koodle 2048"
